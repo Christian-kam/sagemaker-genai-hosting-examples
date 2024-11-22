@@ -1,0 +1,1 @@
+This folder will contain a collection of Jupyter notebooks linked to the scale-to-zero AWS blog posts. These notebooks provide end-to end examples that complement the concepts and solutions discussed in the blog.
