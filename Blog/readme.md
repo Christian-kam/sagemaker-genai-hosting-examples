@@ -1,1 +1,0 @@
-This folder will contain a collection of Jupyter notebooks linked to AWS blog posts. These notebooks provide practical, hands-on examples and code samples that complement the concepts and solutions discussed in the AWS blog articles.
